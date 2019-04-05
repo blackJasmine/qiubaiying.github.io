@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Walking soul"
-sidebar-avatar: /img/avatar-m    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/TX.png    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -78,9 +78,7 @@ ba_track_id: d5b3ced64b2b7dc70ef4e51f6d2c8517
 
 # Google Analytics
 ga_track_id: 'UA-131745026-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
+ga_domain: wushukang.cn             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
