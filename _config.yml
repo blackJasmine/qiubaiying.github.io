@@ -7,7 +7,7 @@ description: "择高而立,向宽处行。"
 keyword: "WSK, WSK Blog, 吴树康的博客, wushukang, 吴树康, java,JavaScript"
 url: "http://wushukang1996.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wushukang1996/wushukang1996.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
